@@ -3,15 +3,8 @@ do
 function run(msg, matches)
   return 'NOD32-BOT v8'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
-  
-  Channel : @Nod32team
-  
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
-  
-  NOD32 VERSION 8
-  
-  All rights reserved.
+   عشقم نمیکشه ورژن رباتو بگم.خخخخ.کلا ضایع شدی.😃😃😃
+ فضول خان حالا برو .
   __________________]]
 end
 
