@@ -1,10 +1,10 @@
 --shared by @blackhatchannel
 local function run(msg)
-if msg.text == "hi" then
-	return "Hello bb"
+if msg.text == "سلام" then
+	return "سلام"
 end
-if msg.text == "Hi" then
-	return "Hello honey"
+if msg.text == "سلامممم" then
+	return "سلام باوووو"
 end
 if msg.text == "Hello" then
 	return "Hi bb"
@@ -18,13 +18,13 @@ end
 if msg.text == "salam" then
 	return "va aleykol asalam"
 end
-if msg.text == "blackhat" then
-	return "my love blackhat"
+if msg.text == "امیر" then
+	return "با باباییم چکار داری؟؟"
 end
-if msg.text == "Blackhat" then
-	return "my father blackhat"
+if msg.text == "تله جیان" then
+	return "بهترین باته"
 end
-if msg.text == "BLACKHAT" then
+if msg.text == "telejian" then
 	return "Kheily Radifeh"
 end
 if msg.text == "Security" then
