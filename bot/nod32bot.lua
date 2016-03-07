@@ -242,7 +242,10 @@ function create_config( )
     "support",
     "server_manager",
     "time",
-    "version"
+    "version",
+    "txt.img",
+    "qrcode",
+    "chatbot"'
     },
 	    sudo_users = {123755887},--Sudo users
     disabled_channels = {},
