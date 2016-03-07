@@ -244,66 +244,63 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {123755887},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
-
-channel : @Nod32team
-sodu : @behrooZyaghi
+⚡telejian ⚡
 ]],
     help_text_realm = [[
 Realm Commands:
 
 !creategroup [Name]
 Create a group
-
+🔥🔥🔥🔥🔥
 !createrealm [Name]
 Create a realm
-
+🔥🔥🔥🔥🔥
 !setname [Name]
 Set realm name
-
+🔥🔥🔥🔥🔥
 !setabout [GroupID] [Text]
 Set a group's about text
-
+🔥🔥🔥🔥🔥
 !setrules [GroupID] [Text]
 Set a group's rules
-
+🔥🔥🔥🔥🔥
 !lock [GroupID] [setting]
 Lock a group's setting
-
+🔥🔥🔥🔥🔥
 !unlock [GroupID] [setting]
 Unock a group's setting
-
+🔥🔥🔥🔥🔥
 !wholist
 Get a list of members in group/realm
-
+🔥🔥🔥🔥🔥
 !who
 Get a file of members in group/realm
-
+🔥🔥🔥🔥🔥
 !type
 Get group type
-
+🔥🔥🔥🔥🔥
 !kill chat [GroupID]
 Kick all memebers and delete group
-
+🔥🔥🔥🔥🔥
 !kill realm [RealmID]
 Kick all members and delete realm
-
+🔥🔥🔥🔥🔥
 !addadmin [id|username]
 Promote an admin by id OR username *Sudo only
-
+🔥🔥🔥🔥🔥
 !removeadmin [id|username]
 Demote an admin by id OR username *Sudo only
-
+🔥🔥🔥🔥🔥
 !list groups
 Get a list of all groups
-
+🔥🔥🔥🔥🔥
 !list realms
 Get a list of all realms
-
+🔥🔥🔥🔥🔥
 !log
 Grt a logfile of current group or realm
 
@@ -311,16 +308,16 @@ Grt a logfile of current group or realm
 !broadcast Hello !
 Send text to all groups
 Only sudo users can run this command
-
+🔥🔥🔥🔥🔥
 !bc [group_id] [text]
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+⚡telejian ⚡
 
 ]],
     help_text = [[
-NOD32 Commands list :
+راهنمای استفاده از ربات:
  
 1-banhammer list ^
  
@@ -516,10 +513,10 @@ NOD32 Commands list :
 
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
+⚡TELEjian ⚡
 
-channel: @Nod32Team
+kely.ir/t/d366761299788557321.png 
 
-G00D LUCK ^_^
 ]]
    }
   serialize_to_file(config, './data/config.lua')
